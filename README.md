@@ -11,7 +11,7 @@ Files and datasets for expert disagreement - Social Media stream.
 │
 ├── README.md        <- Markdown file containing project details
 │
-├── codeBase           <- Folder containing all codes used 
+├── codebase           <- Folder containing all codes used 
 │
 ├── ssriDataset        <- Folder containing CSV files of Twitter data relating to the topic of SSRI
 │
@@ -23,4 +23,9 @@ Files and datasets for expert disagreement - Social Media stream.
 │
 
 ```
+## 📝 Notes 
+
+SSRI Search Query: #ssri OR #antidepressants OR chemical imbalance  lang:en
+
+Covid Search Query: (expert OR research OR scientist OR science OR academic OR lecturer OR professor) covid (uncertain OR statistical OR likely OR unlikely OR ambiguous OR consensus OR unreliable OR disagree OR conflict) has:media_link lang:en"
 
